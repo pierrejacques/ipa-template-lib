@@ -1,0 +1,27 @@
+{
+    "name": "ipa-template-lib",
+    "version": "0.0.1",
+    "description": "template library for IPA",
+    "main": "index.js",
+    "scripts": {
+      "test": "mocha test/test.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/pierrejacques/ipa-template-lib.git"
+    },
+    "author": "pierrejacques",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/pierrejacques/ipa-template-lib/issues"
+    },
+    "homepage": "https://github.com/pierrejacques/ipa-template-lib#readme",
+    "devDependencies": {
+      "chai": "^4.1.2",
+      "mocha": "^5.0.0"
+    },
+    "dependencies": {
+      "ipa.js": "^3.0.0"
+    }
+  }
+  
