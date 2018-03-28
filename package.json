@@ -4,7 +4,7 @@
     "description": "template library for IPA",
     "main": "index.js",
     "scripts": {
-      "test": "mocha test/test.js"
+      "test": "mocha test/"
     },
     "repository": {
       "type": "git",
